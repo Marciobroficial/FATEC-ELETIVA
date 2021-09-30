@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d3930427-dfd4-4e16-90c4-239f522fb3d1" name="ERS" url="http://localhost/ERS/">
+        <fileTransfer mountedRoot="C:\Users\Windows\OneDrive\Documentos\FATEC MATERIAS\4º MÓDULO\LING. PROG. IV - PROF. VANESSA" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
